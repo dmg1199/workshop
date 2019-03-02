@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Math_116"
+author: "Diana Gutierrez"
 date: "Fall semester"
 output: html_document
 ---
@@ -20,7 +20,24 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
 ## Third Verse
-<!--Put the first two verses of The Walrus and the Carpenter here!-->
+<!--Put the first two verses of The Walrus and the Carpenter here!--> 
+
+The sun was shining on the sea,  
+Shining with all his might:  
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+Along Ocean Highway, apartments rise up  
+to ten and twenty stories,  
+white, hallucinatory, defying the shifting sand,  
+the storm moving in off the Atlantic  
+that drives the rain, needlelike,  
+across the windshield so that we can’t see,  
+so that we stop in Ocean City to wait the storm out  
+at the Dutch, the only bar on the boardwalk  
+open this time of year, all the concessions  
+boarded up, weather-beaten, closed against the season.  
+Last summer in violet light, kites  
+spiraled downward in loops, then up,  
+dragons and birds flying high above the boardwalk.  
