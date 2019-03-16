@@ -33,9 +33,12 @@ And the mome raths outgrabe.
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> verse4
 Along Ocean Highway, apartments rise up  
 to ten and twenty stories,  
 white, hallucinatory, defying the shifting sand,  
